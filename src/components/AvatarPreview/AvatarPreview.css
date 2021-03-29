@@ -1,0 +1,23 @@
+.AvatarPreview {
+    display: flex;
+    justify-content: flex-start;
+    padding: 0 3em;
+}
+
+.AvatarPreview .PreviewActions {
+    width: 20em;
+}
+
+.AvatarPreview .PreviewActions span {
+    font-size: 1.2em;
+}
+
+.AvatarPreview .PreviewActions .Button {
+    float: right;
+}
+
+.AvatarPreview .Preview {
+    border-radius: 100%;
+    width: 8em;
+    height: 8em;
+}

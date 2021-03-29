@@ -1,0 +1,27 @@
+.Dropzone {
+    cursor: pointer;
+}
+
+.Dropzone.Highlight {
+    cursor: grabbing;
+    background-color: #c7cdd3;
+}
+
+.Dropzone .DropzoneInfo,
+.Dropzone .DropzoneInfo .TextWrapper {
+    text-align: center;
+    line-height: 2em;
+    margin: auto;
+}
+
+.Dropzone .DropzoneInfo .TextWrapper {
+    font-weight: 500;
+}
+
+.Dropzone .DropzoneInfo .TextWrapper img {
+    padding-right: 0.86em;
+}
+
+.Dropzone .DropzoneInfo span {
+    color: #677489;
+}
